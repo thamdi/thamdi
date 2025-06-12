@@ -48,7 +48,7 @@ We envision a world where AI is:
 ## 📬 Connect With Us
 
 - 🌐 [Website (Coming Soon)](#)
-- 📢 Twitter/X: [@neuroblock_ai](https://twitter.com/thamdi_ai)
+- 📢 Twitter/X: [@thamdi](https://twitter.com/thamdi)
 - 💬 Discord: [Join the community](#)
 - 📧 Email: contact@thamdi.ai
 
